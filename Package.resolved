@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "eventtracker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChristianFox/EventTracker.git",
+      "state" : {
+        "revision" : "4da77acd31aa3d5047ccdfeb65aa52716c2f86b0",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
