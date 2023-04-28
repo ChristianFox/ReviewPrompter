@@ -33,11 +33,11 @@ ReviewPrompter is an open-source library for iOS applications written in Swift t
 - Supports event count resetting
 - Provides an option to enable or disable logging
 
-## Tests
+## 🧪 Tests
 
 The library is basically fully tested with 98.5% code coverage
 
-## Installation
+## 💻 Installation
 
 ### Swift Package Manager
 To add ReviewPrompter to your project using Swift Package Manager, add the following dependency in your Package.swift file:
@@ -58,7 +58,7 @@ targets: [
 ]
 ```
 
-## Usage
+## 🛠️ Usage
 
 ### ReviewPrompter
 
@@ -169,7 +169,20 @@ let eventCondition = reviewPrompter.condition(forIdentifier: "event1")
 print("Event condition: \(eventCondition)")
 ```
 
+## 🐕‍🦺 Support
 
-## Licence
+Please [open an issue](https://github.com/ChristianFox/ReviewPrompter/issues/new) for support.
+
+## 👷‍♂️ Contributing
+
+Pull requests are welcome. I welcome developers of all skill levels to help improve the library, fix bugs, or add new features. 
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+Before submitting a pull request, please ensure that your code adheres to the existing code style and conventions, and that all tests pass. Additionally, if you're adding new functionality, please make sure to include unit tests to verify the behavior.
+
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/ChristianFox/ReviewPrompter/issues/new), and I'll do my best to help you out. 
+
+## 🪪 Licence
 
 ReviewPrompter is released under the MIT Licence. See the LICENSE file for more information.
